@@ -1,3 +1,10 @@
+# Datos runtime WhatsApp (NO versionar)
+data/
+auth/
+
+# Variables de entorno
+.env.local
+
 # Logs
 logs
 *.log
